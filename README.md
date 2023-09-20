@@ -12,10 +12,6 @@ Die Texte in diesem Repository bieten individuelle Meditationen und Reflexionen 
 
 Eine ausgewählte Sammlung von Texten aus diesem Repository wurde in dem Werk "Sein und Werden" zusammengefasst und interpretiert. Sie finden diese Sammlung [hier](SeinUndWerden.pdf).
 
-## Lizenz
-
-Bitte beachten Sie, dass die Inhalte dieses Repositories möglicherweise urheberrechtlich geschützt sind. Überprüfen Sie die jeweiligen Dateien auf die mitgelieferten Lizenzinformationen und respektieren Sie die entsprechenden Rechte.
-
 ---
 
 **Hinweis:** Dieses Repository dient ausschließlich Bildungszwecken und der Diskussion von Ideen. Es wurde von Fans und Interessierten erstellt und steht in keiner offiziellen Verbindung zu David Deutsch oder seinen Verlagen.
