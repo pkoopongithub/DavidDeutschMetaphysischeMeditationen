@@ -1,6 +1,6 @@
 # David Deutsch Meditationen
 
-![Bildbeschreibung](SuWBaB.jpg)
+![Bildbeschreibung](SuWBaB.png)
 
 In diesem Repository werden Textdateien präsentiert, die verschiedene Aspekte der Weltsicht aus David Deutschs Werken "Physik der Welterkenntnis" und "Anfang der Unendlichkeit" reflektieren und meditieren. Jede Textdatei ist eigenständig und behandelt ein spezifisches Thema oder eine Idee aus den genannten Büchern.
 
