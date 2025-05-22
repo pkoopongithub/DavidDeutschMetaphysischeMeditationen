@@ -1,6 +1,6 @@
 # David Deutsch Meditationen
 
-![Bildbeschreibung](SuWBaB.png)
+![Passiflora](SuWBaB.png)
 
 In diesem Repository werden Textdateien präsentiert, die verschiedene Aspekte der Weltsicht aus David Deutschs Werken "Physik der Welterkenntnis" und "Anfang der Unendlichkeit" reflektieren und meditieren. Jede Textdatei ist eigenständig und behandelt ein spezifisches Thema oder eine Idee aus den genannten Büchern.
 
@@ -88,7 +88,7 @@ Und das genügt.
 
 # David Deutsch Meditations!
 
-![Image description](SuWBaB.png)
+![Passiflora](SuWBaB.png)
 
 This repository presents text files that reflect and meditate on various aspects of the worldview from David Deutsch's works "The Fabric of Reality" and "The Beginning of Infinity." Each text file is self-contained and addresses a specific topic or idea from the mentioned books.
 
