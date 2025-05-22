@@ -88,7 +88,7 @@ Und das genügt.
 
 # David Deutsch Meditations!
 
-[Image description](SuWBaB.png)
+![Image description](SuWBaB.png)
 
 This repository presents text files that reflect and meditate on various aspects of the worldview from David Deutsch's works "The Fabric of Reality" and "The Beginning of Infinity." Each text file is self-contained and addresses a specific topic or idea from the mentioned books.
 
