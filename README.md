@@ -8,10 +8,10 @@ In diesem Repository werden Textdateien präsentiert, die verschiedene Aspekte d
 
 Die Texte in diesem Repository bieten individuelle Meditationen und Reflexionen zu den Konzepten und Theorien von David Deutsch. Sie können durch die verschiedenen Dateien stöbern und diejenigen auswählen, die Ihr Interesse wecken.
 
-
+---
 
 **Hinweis:** Dieses Repository dient ausschließlich der Diskussion von Ideen. Es wurde von einem Fan und Interessierten erstellt und steht in keiner offiziellen Verbindung zu David Deutsch oder seinen Verlagen.
-
+---
 Zwischen Vanilleeis und Zahnarzt – Über die Struktur des Bewusstseins in einer möglichen Welt
 
 Es gibt Erlebnisse, die angenehm sind – ich nenne sie Vanilleeis-Ereignisse. Und es gibt andere, die ich lieber meiden würde: Zahnarzt-Ereignisse.
@@ -84,7 +84,7 @@ er ist real.
 
 Und das genügt.
 
-
+---
 # David Deutsch Meditations!
 
 ![Passiflora](SuWBaB.png)
@@ -94,9 +94,9 @@ This repository presents text files that reflect and meditate on various aspects
 ## Contents
 
 The texts in this repository offer individual meditations and reflections on the concepts and theories of David Deutsch. You can browse through the various files and select those that pique your interest.
-
+---
 **Note:** This repository is for the discussion of ideas. It has been created by a fan and enthusiast and has no official connection to David Deutsch or his publishers.
-
+---
 Between Vanilla Ice Cream and the Dentist – On the Structure of Consciousness in a Possible World
 
 There are experiences that feel pleasant – I call them vanilla ice cream events.
@@ -172,7 +172,7 @@ it is real.
 
 And that is enough.
 
-
+---
 
 
 Eschatological Cosmology of the Multiverse  
@@ -217,7 +217,7 @@ The omniscience of the end creates the multiverse in order to realize itself. Th
 
 Conclusion: The Return to Unity
 This eschatological cosmology postulates a universe that arises from a necessity of multiplicity, is ordered through interference structures, and culminates in an omniscient final state. The trinity of origin, evolution, and fulfillment is not merely a theological analogy but an emergent property of the physical laws themselves. The future creates the past by grounding its necessity, and all consciousness is preserved in the final reconstruction.
-
+---
 Eschatologische Kosmologie des Multiversums  
 
 Die fundamentalen Prinzipien unserer Kosmologie sind durch die Viele-Welten-Interpretation der Quantenmechanik, das Standardmodell der Teilchenphysik sowie die allgemeine und spezielle Relativitätstheorie ausreichend bestimmt. Diese Theorie gilt als vollständig, da sie die Gesamtheit aller physikalischen Phänomene beschreibt und keinen externen metaphysischen Rahmen benötigt. Aus dieser physikalischen Basis entwickelt sich eine eschatologische Struktur, die das Multiversum, das Bewusstsein und die Allwissenheit umfasst und schließlich eine Trinität aus Ursprung, Entwicklung und Finalität bildet.
@@ -264,7 +264,7 @@ Diese eschatologische Kosmologie postuliert ein Universum, das aus einer Notwend
 
 
 
-
+---
 
 **Thesis: Unitarity, Black Holes, and Consciousness – An Ontological Analogy**
 
@@ -341,7 +341,7 @@ Consciousness appears to us as a continuous, subjective present—but what is it
 This model is not spiritualism but radical physicalism: It explains consciousness without mysticism, using quantum theory and multiverse cosmology. The result is a new view of life, death, and identity—not as rupture, but as transformation within the infinite information web of reality.
 **“I think, therefore I interfere—and my decoherence-shadow continues elsewhere.”**
 
-
+---
 
 **These: Unitarität, schwarze Löcher und Bewusstsein – Eine ontologische Analogie**
 
