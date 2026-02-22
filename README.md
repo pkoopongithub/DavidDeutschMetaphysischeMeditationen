@@ -18,7 +18,7 @@ Die Texte in diesem Repository bieten individuelle Meditationen und Reflexionen 
 Diese Sammlung umfasst Meditationen zu David Deutsch, Karl Popper und der Metaphysik des "Anfangs der Unendlichkeit".
 
 ### Kern-Konzepte
-* **[DavidDeutschAufEinerSeite.pdf](DavidDeutschAufEinerDInA4Seite.pdf)** – Die Essenz von Deutschs Philosophie.
+* **[DavidDeutschAufEinerDInA4Seite.pdf](DavidDeutschAufEinerDInA4Seite.pdf)** – Die Essenz von Deutschs Philosophie.
 * **[MeinWeltbildAufEinerSeite.pdf](MeinWeltbildAufEinerSeite.pdf)** – Zusammenfassende Übersicht.
 * **[DieEvolutionMeinesWeltbildes.pdf](DieEvolutionMeinesWeltbildes.pdf)** – Der Weg zur heutigen Erkenntnis.
 * **[Zusammenfassung.pdf](Zusammenfassung.pdf)** – Kurzer Abriss der wichtigsten Thesen.
